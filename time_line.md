@@ -43,6 +43,7 @@ This log tracks the technical development and hardware iterations of the 5-DoF r
 
 ### **24-28 March 2026**
 * **3D Designing of ELements:** Designed Elements for robotic arm for 3D printing and construction of Stage 1.
+* **Printing of Elements:** Mock prints for tolerance and other parameters check and printing all the elements.
 
 
 ---
