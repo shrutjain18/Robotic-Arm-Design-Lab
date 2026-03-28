@@ -41,8 +41,9 @@ This log tracks the technical development and hardware iterations of the 5-DoF r
 * **Technical Discovery:** Identified ESP32 GPIO limitations. Specific "strapping pins" showed arbitrary behavior during boot-up, and the total usable GPIO count restricted a full 4-motor implementation.
 * **Current State:** Successfully implemented stable control for 2 motors simultaneously.
 
-### **24 March 2026**
+### **24-28 March 2026**
 * **3D Designing of ELements:** Designed Elements for robotic arm for 3D printing and construction of Stage 1.
+
 
 ---
 
