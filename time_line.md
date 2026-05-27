@@ -6,7 +6,7 @@ This log tracks the technical development and hardware iterations of the 5-DoF r
 
 ### **24 Jan 2026**
 * **Initial Procurement:** Ordered 2 DC motors and an L293D motor driver.
-* **Electronics Club Sourcing:** Obtained an ESP32 microcontroller, breadboards, and basic wiring.
+* **Electronics Club Sourcing:** Procured an ESP32 microcontroller, breadboards, and basic wiring.
 
 ### **6 Feb 2026**
 * **Component Validation:** Verified L293D motor and direction control.
