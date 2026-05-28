@@ -57,8 +57,6 @@ This log tracks the technical development and hardware iterations of the 4-DoF r
 ---
 
 ### **Next Steps & Future Goals**
-* **Controller Evaluation:** Assessing the feasibility of switching to an Arduino Mega (54 GPIOs) versus using two ESP32s in parallel to handle the required pin count.
-* **Mechanical Design:** Designing the 3D-printed or laser-cut structure for the Stage 1 arm.
 * **Stage 1 Completion:** Implementing all motor control using potentiometer manual control.
 * **Stage 2 Transition:** Development of a reference structure for real-time motion mimicry.
 * **State Management:** Implementation of an FSM (Finite State Machine) model to record and playback arm positions.
