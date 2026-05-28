@@ -1,6 +1,6 @@
-# 📅 Project Timeline: 5-DoF Robotic Arm
+# 📅 Project Timeline: 4-DoF Robotic Arm
 
-This log tracks the technical development and hardware iterations of the 5-DoF robotic arm project.
+This log tracks the technical development and hardware iterations of the 4-DoF robotic arm project.
 
 ---
 
@@ -47,6 +47,12 @@ This log tracks the technical development and hardware iterations of the 5-DoF r
 ### **27-28 March 2026**
 * **Improving Design:** After one mock print of small element for checking various parameters as shaft radius and tolerance, some dimensions were changed as required.
 * **Printing of Elements:** Final printing of all the elements for stage 1.
+
+### **2 April 2026**
+* **Dummy Construction:** Structural assembly of Dummy completed.
+
+### **3 April 2026**
+* **System Wiring:** Completed wiring for the assembly.
 
 ---
 
