@@ -54,9 +54,16 @@ This log tracks the technical development and hardware iterations of the 4-DoF r
 ### **3 April 2026**
 * **System Wiring:** Completed wiring for the assembly.
 
+### **19 April 2026**
+* **Exhibition:** Project concluded and showcased in TechEvince 12.0, a showcase exhibition organized by Tech Board IITG.
+
+### **24 April 2026**
+* **Demonstration:** Final project demonstration and evaluation completed.
+
 ---
 
 ### **Next Steps & Future Goals**
+* **Controller Decision:** Implemented two ESP32s in parallel to handle the required pin count, bypassing the need for an Arduino Mega.
 * **Stage 1 Completion:** Implementing all motor control using potentiometer manual control.
 * **Stage 2 Transition:** Development of a reference structure for real-time motion mimicry.
 * **State Management:** Implementation of an FSM (Finite State Machine) model to record and playback arm positions.
